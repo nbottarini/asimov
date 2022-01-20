@@ -21,9 +21,7 @@ Collection of libraries
 ### Javascript/Typescript libraries
 
 - [CQBus](https://github.com/nbottarini/asimov-cqbus-js): Simple kotlin/java command & query bus. For use in CQRS and Clean Architecture / Hexagonal projects.
-
   [![npm](https://img.shields.io/npm/v/asimov-cqbus.svg)](https://www.npmjs.com/package/asimov-cqbus)
 
 - [Javascript extensions](https://github.com/nbottarini/asimov-javascript-extensions): Useful javascript/typescript extensions. 
-
   [![npm](https://img.shields.io/npm/v/asimov-javascript-extensions.svg)](https://www.npmjs.com/package/asimov-javascript-extensions)
