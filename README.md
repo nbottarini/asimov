@@ -17,3 +17,13 @@ Collection of libraries
   [![Maven](https://img.shields.io/maven-central/v/com.nbottarini/asimov-time.svg)](https://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22com.nbottarini%22%20AND%20a%3A%22asimov-time%22)
 - [Kotlin extensions](https://github.com/nbottarini/asimov-kotlin-extensions): Useful Kotlin extensions. 
   [![Maven](https://img.shields.io/maven-central/v/com.nbottarini/asimov-kotlin-extensions.svg)](https://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22com.nbottarini%22%20AND%20a%3A%22asimov-kotlin-extensions%22)
+  
+### Javascript/Typescript libraries
+
+- [CQBus](https://github.com/nbottarini/asimov-cqbus-js): Simple kotlin/java command & query bus. For use in CQRS and Clean Architecture / Hexagonal projects.
+
+  [![npm](https://img.shields.io/npm/v/asimov-cqbus.svg)](https://www.npmjs.com/package/asimov-cqbus)
+
+- [Javascript extensions](https://github.com/nbottarini/asimov-javascript-extensions): Useful javascript/typescript extensions. 
+
+  [![npm](https://img.shields.io/npm/v/asimov-javascript-extensions.svg)](https://www.npmjs.com/package/asimov-javascript-extensions)
